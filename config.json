@@ -60,7 +60,7 @@
     "log-file": null,
     "pools": [
         {
-            "algo": kawpow,
+            "algo": "kawpow",
             "coin": null,
             "url": "stratum+ssl://kawpow.auto.nicehash.com:443",
             "user": "3MwN85fJbFeGYM1dxJ11BhXcZy6i8PStUL",
