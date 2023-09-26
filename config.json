@@ -40,8 +40,8 @@
         "cn-lite/0": false
     },
     "opencl": {
-        "enabled": true,
-        "cache": true,
+        "enabled": false,
+        "cache": false,
         "loader": null,
         "platform": "NVIDIA",
         "adl": true,
@@ -49,7 +49,7 @@
         "cn-lite/0": false
     },
     "cuda": {
-        "enabled": false,
+        "enabled": true,
         "loader": null,
         "nvml": true,
         "cn/0": false,
